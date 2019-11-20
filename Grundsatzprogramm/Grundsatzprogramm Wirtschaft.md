@@ -1,4 +1,4 @@
-#Wirtschaften in Freiheit, Verantwortung und Transparenz
+# Wirtschaften in Freiheit, Verantwortung und Transparenz
 
 Im Mittelpunkt der Wirtschaftspolitik der PIRATEN stehen die Analyse der gesellschaftlichen, rechtlichen und politischen Rahmenbedingungen für die wirtschaftliche Ordnung und Vorschläge zu deren Gestaltung. Die Gestaltung der wirtschaftlichen Ordnung ist als Gegensatz zu politischen Interventionen in den Markt zu verstehen: Ziel der Wirtschaftspolitik ist die Bildung und Durchsetzung allgemeiner „Spielregeln“, nicht der Eingriff in den Spielverlauf.
 
